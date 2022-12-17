@@ -1,0 +1,96 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  }
+  h1,h2,h3,h4,h5,h6
+{
+  font-family: "Montserrat";
+  font-weight: bold;
+}
+.big-heading
+{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  line-height: 1.5;
+  font-weight: 900;
+  /* margin: 5% 0 5%;
+  color: white; */
+}
+p
+{
+  color: #8f8f8f;
+}
+.container-fluid
+{
+  padding: 7% 15%;
+}
+#title .container-fluid
+{
+  padding: 3% 15% 7%;
+  text-align: left;
+}
+/* navigation Bar */
+.navbar
+{
+  padding:0 0 4rem;
+}
+.navbar-brand
+{
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+.nav-item
+{
+  padding: 0 5px;
+}
+ .nav-link
+{
+  font-size: 0.9rem;
+  font-family: "Montserrat"
+}
+
+/* button */
+.condnbtn
+{
+  margin: 5% 3% 5% 0;
+}
+ 
+/* image on #title */
+.illustration
+{
+   position: relative;
+}
+.stress
+{
+  width: 60%;
+  transform: rotate(10deg);
+  position: absolute;
+  right: 30%;
+}
+
+/* conditions */
+
+/* #conditions */
+.conditions-img
+{
+  height: 20rem;
+  width: 34rem;
+  border-radius: 5%;
+}
+.heading
+{
+  padding: 0 0 5% 0;
+}
+#conditions
+{
+  background-color:  #DAE5D0;
+  color: #fff;
+}
+
+/* solution */
+.solution-intro
+{
+  padding: 0 0 5% 0;
+}
+
